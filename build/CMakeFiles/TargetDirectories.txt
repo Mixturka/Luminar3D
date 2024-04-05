@@ -1,0 +1,3 @@
+/Users/deniv/Documents/Luminar3D/build/CMakeFiles/luminar.dir
+/Users/deniv/Documents/Luminar3D/build/CMakeFiles/edit_cache.dir
+/Users/deniv/Documents/Luminar3D/build/CMakeFiles/rebuild_cache.dir
