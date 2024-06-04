@@ -1,2 +1,0 @@
-add_library(luminar_view LuminarView.cpp)
-target_link_libraries(luminar_view SDL2)
